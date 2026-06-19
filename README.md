@@ -49,6 +49,21 @@ A dashboard to help parents:
 
 ---
 
+## Documentation
+
+Explore the public-safe documentation for this showcase repository:
+
+* [Arabic Summary](docs/arabic-summary.md)
+* [Product Vision](docs/product-vision.md)
+* [User Flow](docs/user-flow.md)
+* [Roadmap](docs/roadmap.md)
+* [FAQ](docs/faq.md)
+* [Public Scope](docs/public-scope.md)
+* [Screenshots Guide](docs/screenshots-guide.md)
+* [Brand Notes](docs/brand-notes.md)
+
+---
+
 ## Product Status
 
 Rattl is currently under private development.
