@@ -1,5 +1,13 @@
 # Rattl — AI-Assisted Quran Learning Platform
 
+## Live Demo
+
+Open the public static homepage demo:
+
+https://rakanshalal-wq.github.io/rattl-ai-quran-learning/
+
+---
+
 **Rattl** is a private MVP for an AI-assisted Quran memorization platform designed for children, parents, and Quran learning centers.
 
 This repository is a **public showcase only**.
