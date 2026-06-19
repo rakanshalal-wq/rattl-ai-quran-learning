@@ -1,5 +1,10 @@
 # Rattl — AI-Assisted Quran Learning Platform
 
+[![Public Showcase](https://img.shields.io/badge/Public%20Showcase-Rattl-14B8A6?style=for-the-badge)](https://github.com/rakanshalal-wq/rattl-ai-quran-learning)
+[![Private MVP](https://img.shields.io/badge/Private%20MVP-Source%20Not%20Included-0f172a?style=for-the-badge)](https://github.com/rakanshalal-wq/rattl-ai-quran-learning)
+[![Arabic First](https://img.shields.io/badge/Arabic--first-UX-0d9488?style=for-the-badge)](https://github.com/rakanshalal-wq/rattl-ai-quran-learning)
+[![Live Demo](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-222222?style=for-the-badge&logo=github)](https://rakanshalal-wq.github.io/rattl-ai-quran-learning/)
+
 ## Live Demo
 
 Open the public static homepage demo:
